@@ -1,0 +1,61 @@
+/** @format */
+
+.top-header {
+	border-bottom: 3px solid black;
+}
+
+.bottom-header {
+	border-top: 3px solid black;
+}
+
+.paper-heading {
+	font-size: 6em;
+	font-weight: 600;
+}
+
+#banner-shape {
+	height: 0;
+	width: fit-content;
+	border-bottom: 40px solid maroon;
+	border-right: 40px solid transparent;
+	text-align: center;
+	color: white;
+	font-size: large;
+	font-style: italic;
+}
+
+.banner-text {
+	padding-top: 0.2em;
+	font-size: 1em;
+	font-weight: 700;
+	padding-left: 7px;
+}
+
+.img-container {
+	position: relative;
+	text-align: center;
+	color: white;
+}
+
+.bottom-right {
+	text-align: right;
+	position: absolute;
+	bottom: 8px;
+	right: 16px;
+	width: 45%;
+}
+
+.image-cicle {
+	background-color: black;
+	width: 30px;
+	height: 30px;
+	bottom: 150px;
+	border: 1px solid black;
+	border-radius: 50%;
+	right: 16px;
+	position: absolute;
+	margin-bottom: 2px;
+	font-size: 0.6em;
+	text-align: center;
+	font-style: italic;
+}
